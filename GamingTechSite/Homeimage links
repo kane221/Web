@@ -1,0 +1,420 @@
+<!doctype html>
+<html lang="en">
+
+  <head>
+
+    <title>TechTastic</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Complete Bootstrap 4 Website Layout</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <link href="website.css" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
+    <link href="Website.css" rel="stylesheet" type="text/css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+
+
+
+
+
+
+
+  <body>
+    <div class="p-9 mb-1 bg-dark text-white bg-gradient">
+      <!-- Navigation -->
+
+        <div class="container col-sm-12 col-lg-12">
+          <nav class="navbar navbar-expand-lg navbar-light bg-dark">
+            <a href="Website.html"><img src="https://i.ibb.co/ckgqSQW/TTECHD.png"></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+              <div class="navbar-nav text-white h5">
+                <a class="nav-item nav-link active text-white" href="Home.html">Home <span class="sr-only">(current)</span></a>
+                <a class="nav-item nav-link text-white " href="NewTech.html">New Tech</a>
+                <a class="nav-item nav-link text-white " href="FutureTech.html">Future Tech</a>
+                <a class="nav-item nav-link text-white " href="BOTM.html">BOTM</a>
+              </div>
+            </div>
+          </nav>
+        </div>
+      </div>
+    </div>
+
+
+<!-- Carousel -->
+    <div class="p-3 mb-2 bg-light text-white">
+      <div class="container bg- col-lg-11 col-sm-12">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+          <div class="carousel-inner">
+
+            <div class="carousel-item">
+              <div class="wrapper">
+			  <a href="https://www.w3schools.com">
+                <img class="d-block w-100" src="https://i.ibb.co/qMYjryP/5df38e58fd9db250f1135773.jpg" alt="First slide">
+				</a>
+              </div>
+              <div class="carousel-caption d-none d-md-block col-lg-14">
+                <h5>The New Xbox</h5>
+                <p class="h8">Can this beat PC gaming</p>
+              </div>
+            </div>
+
+            <div class="carousel-item">
+              <div class="wrapper">
+			  <a href="https://www.w3schools.com">
+                <img class="d-block w-100" src="https://i.ibb.co/QdKS4qr/34-alienware-concept-ufo-gaming-device-1-1.jpg" alt = "First slide">
+				</a>
+              </div>
+              <div class="carousel-caption d-none d-md-block col-lg-14">
+                <h5> Alienware </h5>
+                <p class="h8">Quality gaming on this hand held pc?</p>
+              </div>
+            </div>
+
+            <div class="carousel-item active">
+              <div class="wrapper">
+			  <a href="https://www.w3schools.com">
+                <img class="d-block w-100" src="https://i.ibb.co/2yZyMF5/34-alienware-concept-ufo-gaming-device-1-2.jpg"  alt="First slide">
+				</a>
+              </div>
+              <div class="carousel-caption d-none d-md-block col-lg-14 text-dark">
+                <h5> Robots </h5>
+                <p class="h8">How close are we to real robots</p>
+              </div>
+            </div>
+			
+          <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+          </a>
+        </div>
+      </div>
+
+
+
+
+<!doctype html>
+    <html lang="en">
+
+      <head>
+
+        <title>TechTastic</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Complete Bootstrap 4 Website Layout</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+        <link href="website.css" rel="stylesheet">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+        <script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
+        <link href="Website.css" rel="stylesheet" type="text/css">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+      </head>
+
+
+
+
+
+
+
+<!-- First three Images -->
+      <div class="container bg-
+  col-lg-11 col-sm-10 xt-success " style="
+    padding-top: 5px;
+    padding-bottom: 5px;
+">
+        <div class="row">
+          <div class="col-lg-4 col-sm-4 col-md-4 " style="margin-left:0px;padding-right: 5px;padding-left: 5px;padding-top: 5px;padding-bottom: 0px;">
+            <div class="container" style="margin-left:0px;padding-right: 5px;padding-left: 5px;padding-top: 5px;padding-bottom: 0px;">
+			  <a href="https://www.w3schools.com">
+              <img class="card-img" src="https://i.ibb.co/MkrT13f/925602a4c9b7da001eea5c9d868f9a4c-1.jpg" alt="Card image cap">
+              <div class="card-img-overlay h-100 d-flex flex-column justify-content-end">
+                <div class="first text-white">
+                  <h4 class="card-title">New Ps4 Controller</h4>
+                  <p class="h8 ">How amazing will this be ?</p>
+                </div>
+              </div>
+			  </a>
+            </div>
+
+          </div>
+          <div class="col-lg-4 col-sm-4 col-md-4 " style="margin-left:0px;padding-right: 5px;padding-left: 5px;padding-top: 5px;padding-bottom: 0px;">
+            <div class="container" style="margin-left:0px;padding-right: 5px;padding-left: 5px;padding-top: 5px;padding-bottom: 0px;">
+			<a href="https://www.w3schools.com">
+              <img class="card-img" src="https://i.ibb.co/sRQh339/925602a4c9b7da001eea5c9d868f9a4c.jpg" alt="Card image cap" >
+              <div class="card-img-overlay h-100 d-flex flex-column justify-content-end">
+                <div class="first text-white">
+                  <h4 class="card-title">Tech Pouch</h4>
+                  <p class="h8 "> Fit all your small Tech in this pouch </p>
+                </div>
+              </div>
+			  </a>
+            </div>
+
+          </div>
+          <div class="col-lg-4 col-sm-4 col-md-4 " style="margin-left:0px;padding-right: 5px;padding-left: 5px;padding-top: 5px;padding-bottom: 0px;">
+            <div class="container" style="margin-left:0px;padding-right: 5px;padding-left: 5px;padding-top: 5px;padding-bottom: 0px;">
+			<a href="https://www.w3schools.com">
+              <img class="card-img" src="https://i.ibb.co/2qn5jdy/229159-web-750x500.jpg" alt="Card image cap">
+              <div class="card-img-overlay h-100 d-flex flex-column justify-content-end">
+                <div class="first text-white">
+                  <h4 class="card-title">Title</h4>
+                  <p class="h8 "> Inovative laser Tech </p>
+                </div>
+              </div>
+			  </a>
+            </div>
+
+          </div>
+        </div>
+      </div>
+
+
+
+<!-- Second section Big image two small images -->
+      <div class="container bg- col-lg-12 col-sm-10" style="
+    padding-bottom: 0px;
+    padding-top: 0px;
+">
+        <div class="row">
+          <div class="col-lg-6 col-sm-6 col-sm-6" style="margin-left:0px;padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;">
+            <div class="container" style="margin-left:0px;padding-right: 5px;padding-left: 5px;padding-top: 5px;padding-bottom: 0px;">
+              <a href="https://www.w3schools.com">
+			  <img class="card-img" src="https://i.ibb.co/hW6QHSn/camera-video-system.jpg" class="figure-img img-fluid rounded " alt="Card image cap">
+               <div class="card-img-overlay h-100 d-flex flex-column justify-content-end">
+                <div class="first text-white">
+                  <h4 class="card-title"></h4>
+                  <p class="h8 "> Inovative laser Tech </p>
+                </div>
+              </div>
+			  </a>
+            </div>
+          </div>
+		  
+          <div class="col-lg-6 col-sm-6 col-sm-6" style="margin-left:0px;padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;">
+				              <div class="row no-gutters">
+                <div class="col-md-10 col-lg-12">
+                  <img src=  alt="Snow" style="width:100%">
+                </div>
+                <div class="col-md-10 col-lg-7 col-sm-10"">
+                  <div class="card-body text-dark bg-white">
+                    <h6 class="card-title">March Week 1</h6>
+                    <p class="card-text">Best Of the Week March.</p>
+					</div>
+					
+              </div>
+
+            <div class="container" style="margin-left:0px;padding-right: 5px;padding-left: 5px;padding-top: 5px;padding-bottom: 0px;">
+              <a href="https://www.w3schools.com">
+                <img class="card-img figure-img img-fluid rounded " src="https://i.ibb.co/h2jwxpX/5df38e58fd9db250f1135773-4-2.jpg" alt="Card image cap">
+                <div class="card-img-overlay h-100 d-flex flex-column justify-content-end">
+                  <div class="first text-white">
+                    <h4 class="card-title">dddd</h4>
+                    <p class="h8 "> Inovative laser Tech </p>
+                  </div>
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      </div>
+      <div class="container bg-
+  col-lg-8 col-sm-10 xt-success " style="
+    padding-top: 5px;
+    padding-bottom: 5px;
+">
+        <div class="row">
+          <div class="col-lg-4 col-sm-4 col-md-4 " style="margin-left:0px;padding-right: 5px;padding-left: 5px;padding-top: 5px;padding-bottom: 0px;">
+            <div class="container" style="margin-left:0px;padding-right: 5px;padding-left: 5px;padding-top: 5px;padding-bottom: 0px;">
+              <a href="https://www.w3schools.com">
+			  <img class="card-img" src="https://i.ibb.co/N1qhRVD/bose-noise-cancelling-headphones-700-black-16374385.jpg" alt="Card image cap">
+              <div class="card-img-overlay h-100 d-flex flex-column justify-content-end">
+                <div class="first text-white">
+                  <h4 class="card-title"></h4>
+                  <p class="h8 "> Inovative laser Tech </p>
+                </div>
+              </div>
+			  </a>
+            </div>
+
+          </div>
+          <div class="col-lg-4 col-sm-4 col-md-4 " style="margin-left:0px;padding-right: 5px;padding-left: 5px;padding-top: 5px;padding-bottom: 0px;">
+            <div class="container" style="margin-left:0px;padding-right: 5px;padding-left: 5px;padding-top: 5px;padding-bottom: 0px;">
+              <a href="https://www.w3schools.com">
+			  <img class="card-img" src="https://i.ibb.co/QP3gFSv/Project-x-Cloud.jpg" alt="Card image cap">
+              <div class="card-img-overlay h-100 d-flex flex-column justify-content-end">
+                <div class="first text-white">
+                  <h4 class="card-title">Title</h4>
+                  <p class="h8 "> Inovative laser Tech </p>
+                </div>
+              </div>
+            </div>
+
+          </div>
+          <div class="col-lg-4 col-sm-4 col-md-4 " style="margin-left:0px;padding-right: 5px;padding-left: 5px;padding-top: 5px;padding-bottom: 0px;">
+            <div class="container" style="margin-left:0px;padding-right: 5px;padding-left: 5px;padding-top: 5px;padding-bottom: 0px;">
+              <a href="https://www.w3schools.com" >
+			  <img class="card-img" src="https://i.ibb.co/Cvmk2qb/Netgear-Nighthawk-Wi-Fi-6-mesh-router.jpg" alt="Card image cap">
+              <div class="card-img-overlay h-100 d-flex flex-column justify-content-end">
+                <div class="first text-white">
+                  <h4 class="card-title">Title</h4>
+                  <p class="h8 "> Inovative laser Tech </p>
+                </div>
+              </div>
+			  </a>
+            </div>
+
+          </div>
+        </div>
+      </div>
+	  
+	  
+<!-- Fourth section Big image two small images -->
+	        <div class="container bg- col-lg-8 col-sm-10" style="
+    padding-bottom: 0px;
+    padding-top: 0px;
+">
+        <div class="row">
+		          <div class="col-lg-6 col-sm-6 col-sm-6" style="margin-left:0px;padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;">
+            <div class="container" style="margin-left:0px;padding-right: 5px;padding-left: 5px;padding-top: 5px;padding-bottom: 0px;">
+              <img class="card-img" src="https://i.ibb.co/qMYjryP/5df38e58fd9db250f1135773.jpg" class="figure-img img-fluid rounded " class="figure-img img-fluid rounded " alt="Card image cap">
+              <div class="card-img-overlay h-100 d-flex flex-column >
+                <div class="first text-white">
+                  <h4 class="card-title">Title</h4>
+                  <p class="h8 "> Inovative laser Tech </p>
+                </div>
+              </div>
+
+          
+
+            <div class="container" style="margin-left:0px;padding-right: 5px;padding-left: 5px;padding-top: 5px;padding-bottom: 0px;">
+              <img class="card-img" src="https://i.ibb.co/qMYjryP/5df38e58fd9db250f1135773.jpg" class="figure-img img-fluid rounded " class="figure-img img-fluid rounded " alt="Card image cap">
+              <div class="card-img-overlay h-100 d-flex flex-column justify-content-end">
+                <div class="first text-white">
+                  <h4 class="card-title">Title</h4>
+                  <p class="h8 "> Inovative laser Tech </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6 col-sm-6 col-sm-6" style="margin-left:0px;padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;">
+            <div class="container" style="margin-left:0px;padding-right: 5px;padding-left: 5px;padding-top: 5px;padding-bottom: 0px;">
+              <img class="card-img" src="https://i.ibb.co/HTMLDDc/01-018-galaxyzflip-mainkv-mirror-purple-2p-rgb.jpg" class="figure-img img-fluid rounded " alt="Card image cap">
+              <div class="card-img-overlay h-100 d-flex flex-column justify-content-end">
+                <div class=" text-dark">
+                  <h4 class="card-title">Title</h4>
+                  <p class="h8 "> Inovative laser Tech </p>
+                </div>
+              </div>
+            </div>
+          </div>
+		  
+
+        </div>
+      </div>
+
+
+
+
+
+
+
+ <div class="container bg- col-lg-12 col-sm-10 xt-success " style="padding-top: 5px; padding-bottom: 5px; ">
+
+	  
+        <div class="col-lg-12 col-sm-12 col-md-12 " style="margin-left:0px;padding-right: 5px;padding-left: 5px;padding-top: 5px;padding-bottom: 0px;">
+          <div class="container" style="margin-left:0px;padding-right: 5px;padding-left: 5px;padding-top: 5px;padding-bottom: 0px;">
+		  <a href ="#" class="nounderline">
+		  <img class="card-img" src="https://i.ibb.co/hW6QHSn/camera-video-system.jpg" alt="Card image cap">
+			    <div class="card-body text-dark bg-white" style"text-decoration: none;">
+                <h6 class="card-title">Cameras</h6>
+                <p class="card-text">360 cameras.</p>
+              </div>
+			 </a>
+          </div>
+
+
+
+
+        <div class="col-lg-8 col-sm-4 col-md-4 " style="margin-left:0px;padding-right: 5px;padding-left: 5px;padding-top: 5px;padding-bottom: 0px;">
+          <div class="container" style="margin-left:0px;padding-right: 5px;padding-left: 5px;padding-top: 5px;padding-bottom: 0px;">
+            <a href="https://www.w3schools.com" class="nounderline">
+              <img class="card-img" src="https://i.ibb.co/h2jwxpX/5df38e58fd9db250f1135773-4-2.jpg" alt="Card image cap">
+              <div class="card-body text-dark bg-white">
+                <h6 class="card-title">March Week 1</h6>
+                <p class="card-text">Best Of the Week March.</p>
+              </div>
+
+          </div>
+          </a>
+        </div>
+      </a>
+
+
+
+
+      <div class="row">
+        <div class="col-lg-8 col-sm-4 col-md-4 " style="margin-left:0px;padding-right: 5px;padding-left: 5px;padding-top: 5px;padding-bottom: 0px;">
+          <div class="container" style="margin-left:0px;padding-right: 5px;padding-left: 5px;padding-top: 5px;padding-bottom: 0px;">
+            <a href="https://www.w3schools.com" class="nounderline">
+              <img class="card-img" src="https://i.ibb.co/h2jwxpX/5df38e58fd9db250f1135773-4-2.jpg" alt="Card image cap">
+              <div class="card-body text-dark bg-white">
+                <h6 class="card-title">March Week 1</h6>
+                <p class="card-text">Best Of the Week March.</p>
+              </div>
+          </div>
+        </div>
+        </a>
+
+
+        <div class="col-lg-4 col-sm-4 col-md-4 " style="margin-left:0px;padding-right: 5px;padding-left: 5px;padding-top: 5px;padding-bottom: 0px;">
+          <div class="container" style="margin-left:0px;padding-right: 5px;padding-left: 5px;padding-top: 5px;padding-bottom: 0px;">
+            <a href="https://www.w3schools.com" class="nounderline">
+              <img class="card-img" src="https://i.ibb.co/Cvmk2qb/Netgear-Nighthawk-Wi-Fi-6-mesh-router.jpg" alt="Card image cap">
+              <div class="card-body text-dark bg-white">
+                <h6 class="card-title">March Week 1</h6>
+                <p class="card-text">Best Of the Week March.</p>
+              </div>
+
+          </div>
+          </a>
+        </div>
+      </div>
+      </a>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- Navigation -->
+  </body>
+
+</html>

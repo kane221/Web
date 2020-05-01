@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+
+  <head>
+
+    <title>TechTastic</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Complete Bootstrap 4 Website Layout</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <link href="website.css" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
+    <link href="Website.css" rel="stylesheet" type="text/css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+
+
+
+
+
+
+
+  <body>
+    <div class="p-6 mb-1 bg-dark text-white bg-gradient">
+      <!-- Navigation -->
+
+      <div class="container col-sm-12 col-lg-12">
+        <nav class="navbar navbar-expand-lg navbar-light bg-dark">
+          <a href="Website.html"><img src="https://i.ibb.co/ckgqSQW/TTECHD.png"></a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+            <div class="navbar-nav text-white h5 waves-effect waves-light">
+              <a class="nav-item nav-link active text-white" href="Home.html">Home <span class="sr-only">(current)</span></a>
+              <a class="nav-item nav-link text-white " href="NewTech.html">New Tech</a>
+              <a class="nav-item nav-link text-white " href="FutureTech.html">Future Tech</a>
+              <a class="nav-item nav-link text-white " href="BOTM.html">BOTM</a>
+            </div>
+			</div>
+			<div class="collapse navbar-collapse" id="navbarSupportedContent-3">
+            <ul class="navbar-nav ml-auto nav-flex-icons">
+              <a class="nav-link waves-effect waves-light">
+                <i class="fab fa-twitter"></i>
+              </a>
+              <a class="nav-link waves-effect waves-light">
+                <i class="fab fa-facebook"></i>
+              </a>
+              <a class="nav-link waves-effect waves-light">
+                <i class="fab fa-github"></i>
+              </a>
+              <a class="nav-link waves-effect waves-light">
+                <i class="fab fa-linkedin"></i>
+              </a>
+              <a class="nav-link waves-effect waves-light">
+                <i class="fab fa-google-plus-g"></i>
+              </a>
+              <a class="nav-link dropdown-toggle waves-effect waves-light" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <i class="fas fa-user"></i>
+              </a>
+              <div class="dropdown-menu dropdown-menu-right dropdown-default" aria-labelledby="navbarDropdownMenuLink">
+                <a class="dropdown-item waves-effect waves-light" href="#">Action</a>
+                <a class="dropdown-item waves-effect waves-light" href="#">Another action</a>
+                <a class="dropdown-item waves-effect waves-light" href="#">Something else here</a>
+              </div>
+			  </div>
+            </ul>
+          </div>
+        </nav>
+      </div>
+    </div>
